@@ -1,3 +1,5 @@
 *.[oa]
 *.exe
 *.gch
+infile
+outfile
